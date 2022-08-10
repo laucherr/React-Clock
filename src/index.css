@@ -3,7 +3,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgba(86, 89, 129, 0.622);
+  background-image: linear-gradient(to top, #ae9a89 0%, #b78067 100%);
   text-align: center;
   margin-top: 30px;
 }
@@ -13,7 +13,7 @@ code {
 }
 
 .interactive{
-  color: rgb(25, 109, 25);
+  color: rgb(38, 71, 38);
   width: 50%;
   float: right;
 }
